@@ -3,7 +3,7 @@ info kittu file !
 Sub heading small info
 ---------------------
 
-I am  **beginner** to learn a lot of *stuff* in Git and ~~GitHub~~
+> I am  **beginner** to learn a lot of *stuff* in Git and ~~GitHub~~
 
 `Vani is my friend`
 
