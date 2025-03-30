@@ -5,7 +5,29 @@ Sub heading small info
 
 > I am  **beginner** to learn a lot of *stuff* in Git and ~~GitHub~~
 
-`Vani is my friend`
+
+
+This is a footnote[^1].  this is another[^2].
+[^1]: this is big foot
+[^2]: nothing it means only timepass
+
+left | center | right
+-- | :--: | --:
+One | two | 0.009
+three | ketan | 6.789
+four | vanisha | 67.7856
+
+<details>
+<summary>colapsed</summary>
+
+Hidden Header 
+==
+Subpried WTF body!!
+
+</details>
+
+
+`Vani is my friend` 🫀❤️
 
 ```java
 final int num = 10;
