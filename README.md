@@ -9,7 +9,7 @@ Sub heading small info
 
 This is a footnote[^1].  this is another[^2].
 [^1]: this is big foot
-[^2]: nothing it means only timepass
+[^2]: nothing it means only timepass only
 
 left | center | right
 -- | :--: | --:
