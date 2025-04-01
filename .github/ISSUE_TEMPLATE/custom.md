@@ -1,9 +1,9 @@
 ---
 name: Custom issue template
 about: Describe this issue template's purpose here.
-title: '[event name] of the issue or its related to '
-labels: '[bug]'
-assignees: '[ketank.gupta]'
+title: "[event name] of the issue or its related to "
+labels: bug
+assignees: ketankgupta
 
 ---
 
